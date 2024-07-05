@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Quicksilver-HK-Kernel
+kernel.string=Earendel-ginkgo-v1.0
 do.devicecheck=1
 do.modules=0
 do.systemless=1
